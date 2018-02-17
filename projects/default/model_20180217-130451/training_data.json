@@ -1,0 +1,160 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "home",
+        "entities": [],
+        "text": "take me home"
+      },
+      {
+        "intent": "home",
+        "entities": [],
+        "text": "go home"
+      },
+      {
+        "intent": "home",
+        "entities": [],
+        "text": "i wanna go home"
+      },
+      {
+        "intent": "home",
+        "entities": [],
+        "text": "let's go home"
+      },
+      {
+        "intent": "cats",
+        "entities": [],
+        "text": "lets see some cats"
+      },
+      {
+        "intent": "cats",
+        "entities": [],
+        "text": "cats"
+      },
+      {
+        "intent": "cats",
+        "entities": [],
+        "text": "cat"
+      },
+      {
+        "intent": "cats",
+        "entities": [],
+        "text": "standing cat"
+      },
+      {
+        "intent": "cats",
+        "entities": [],
+        "text": "i want cats"
+      },
+      {
+        "intent": "cats",
+        "entities": [],
+        "text": "cats are cute"
+      },
+      {
+        "intent": "image search",
+        "entities": [],
+        "text": "find me some picture"
+      },
+      {
+        "intent": "image search",
+        "entities": [],
+        "text": "give me a random image"
+      },
+      {
+        "intent": "image search",
+        "entities": [
+          {
+            "start": 9,
+            "end": 13,
+            "value": "bear",
+            "entity": "animal"
+          }
+        ],
+        "text": "i want a bear image"
+      },
+      {
+        "intent": "image search",
+        "text": "get me a picture"
+      },
+      {
+        "intent": "image search",
+        "entities": [
+          {
+            "start": 21,
+            "end": 24,
+            "value": "cat",
+            "entity": "animal"
+          }
+        ],
+        "text": "get me an image of a cat"
+      },
+      {
+        "intent": "image search",
+        "entities": [
+          {
+            "start": 10,
+            "end": 13,
+            "value": "dog",
+            "entity": "animal"
+          }
+        ],
+        "text": "find me a dog"
+      },
+      {
+        "intent": "cats",
+        "entities": [
+          {
+            "start": 17,
+            "end": 18,
+            "value": "5",
+            "entity": "number"
+          }
+        ],
+        "text": "show me the next 5 cats"
+      },
+      {
+        "intent": "cats",
+        "entities": [],
+        "text": "standing cat"
+      },
+      {
+        "intent": "cats",
+        "entities": [],
+        "text": "find me a cat"
+      },
+      {
+        "intent": "cats",
+        "entities": [],
+        "text": "get me a random cat"
+      },
+      {
+        "intent": "cats",
+        "entities": [],
+        "text": "show me some kitties"
+      },
+      {
+        "intent": "cats",
+        "entities": [],
+        "text": "show me some kittens"
+      },
+      {
+        "intent": "cats",
+        "entities": [],
+        "text": "kitties"
+      },
+      {
+        "intent": "image search",
+        "entities": [],
+        "text": "dogs"
+      },
+      {
+        "intent": "image search",
+        "entities": [],
+        "text": "puppies"
+      }
+    ],
+    "regex_features": [],
+    "entity_synonyms": []
+  }
+}
