@@ -12,12 +12,32 @@
         "entities": []
       },
       {
+        "text": "i miss home",
+        "intent": "home",
+        "entities": []
+      },
+      {
+        "text": "i am going home",
+        "intent": "home",
+        "entities": []
+      },
+      {
         "text": "i wanna go home",
         "intent": "home",
         "entities": []
       },
       {
+        "text": "see you at home",
+        "intent": "home",
+        "entities": []
+      },
+      {
         "text": "let's go home",
+        "intent": "home ",
+        "entities": []
+      },
+      {
+        "text": "home",
         "intent": "home ",
         "entities": []
       },
@@ -28,11 +48,6 @@
       },
       {
         "text": "cats",
-        "intent": "cats",
-        "entities": []
-      },
-      {
-        "text": "cat",
         "intent": "cats",
         "entities": []
       },
