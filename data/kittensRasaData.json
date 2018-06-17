@@ -204,6 +204,36 @@
         "text": "get me some food",
         "intent": "get pizza",
         "entities": []
+      },
+      {
+        "text": "take some notes",
+        "intent": "voice notes",
+        "entities": []
+      },
+      {
+        "text": "remember this",
+        "intent": "voice notes",
+        "entities": []
+      },
+      {
+        "text": "write this down",
+        "intent": "voice notes",
+        "entities": []
+      },
+      {
+        "text": "remind me later",
+        "intent": "voice notes",
+        "entities": []
+      },
+      {
+        "text": "I want to take notes",
+        "intent": "voice notes",
+        "entities": []
+      },
+      {
+        "text": "I need to remember this",
+        "intent": "voice notes",
+        "entities": []
       }
     ]
   }
